@@ -1,0 +1,1 @@
+Hello, good day, this repository contains 3 assembler exercises, carried out in my fourth semester of university, the first script receives a number of numbers, up to a maximum of 5 and returns the one that is largest, the second returns the smallest number and the third, prints through the console the number of numbers of the Fibonacci sequence that have been requested
